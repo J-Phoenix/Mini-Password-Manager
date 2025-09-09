@@ -66,4 +66,11 @@ pip install -r requirement.txt
 python main.py
 ```
 
+## My Project Showcase
+
+
+
+
+
+
 [![My Project Showcase](https://img.youtube.com/vi/vkaUAswhLpI/0.jpg)](https://www.youtube.com/watch?v=vkaUAswhLpI)
