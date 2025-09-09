@@ -48,20 +48,20 @@ MiniPasswordManager/
 git clone https://github.com/J-Phoenix/MiniPasswordManager.git
 cd MiniPasswordManager
 ```
-###2. Create virtual environment
+### 2. Create virtual environment
 ```bash
 python -m venv .venv
 ```
-###3. Activate virtual environment
+### 3. Activate virtual environment
 ```bash
 source .venv/bin/activate   # macOS/Linux
 .venv\Scripts\activate      # Windows
 ```
-###4.Install dependencies
+### 4.Install dependencies
 ```bash
 pip install -r requirement.txt
 ```
-###5. Run the app
+### 5. Run the app
 ```bash
 python main.py
 ```
