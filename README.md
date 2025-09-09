@@ -16,7 +16,7 @@ Includes a simple **Tkinter GUI** to:
 ```
 MiniPasswordManager/
 │── .venv/                 # Virtual environment (not in repo)
-│── requirements.txt        # Project dependencies
+│── requirement.txt        # Project dependencies
 │── main.py                 # Entry point
 │
 ├── manager/                # Core password manager logic
@@ -59,7 +59,7 @@ source .venv/bin/activate   # macOS/Linux
 ```
 ###4.Install dependencies
 ```bash
-pip install -r requirements.txt
+pip install -r requirement.txt
 ```
 ###5. Run the app
 ```bash
